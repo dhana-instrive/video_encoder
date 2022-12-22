@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "366043896419",
+    "project_id": "instrive-video-editor",
+    "storage_bucket": "instrive-video-editor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366043896419:android:863b49e654e23e842c3656",
+        "android_client_info": {
+          "package_name": "com.instrive.video_encoder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366043896419-6hrmn9nvd8niie3v7vci4c9f24coh82s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNmmw5jFm0ZxUEZ4c98eu6pQIywSeX8OA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366043896419-6hrmn9nvd8niie3v7vci4c9f24coh82s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
